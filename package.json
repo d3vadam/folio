@@ -55,8 +55,3 @@
     "url": "https://github.com/RyanFitzgerald/devfolio/issues"
   }
 }
-{
-  "scripts": {
-    "deploy": "npm run start"
-  }
-}
